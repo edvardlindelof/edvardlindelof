@@ -6,6 +6,7 @@ I'm Edvard. I'm an engineering physicist working as a data science consultant. M
 - Molecular design
 - Clinical trials
 - Vehicle electrification
+- Banking and finance
 
 #### I want to get better at
 - 🌱 Growing chillies
